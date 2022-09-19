@@ -1,7 +1,7 @@
 {
-  "name": "ie.itcarlow.cubefilter",
+  "name": "ie.itcarlow.DecreaseIfLowerThanFirst",
   "version": "0.1.0",
-  "displayName": "CubeFilter",
-  "description": "A filter that cubes numbers.",
+  "displayName": "DecreaseIfLowerThanFirst",
+  "description": "Filter than decrease if lower than 1.",
   "unity": "2020.3"
 }
