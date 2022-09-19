@@ -159,7 +159,7 @@
       }
     },
     "ie.setu.deciflowthanfirst": {
-      "version": "file:ie.setu.deciflowthanfirst",
+      "version": "file:ie.setu.deciflowthanfirs",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
