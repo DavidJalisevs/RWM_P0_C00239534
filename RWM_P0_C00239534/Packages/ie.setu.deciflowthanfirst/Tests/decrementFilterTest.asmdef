@@ -1,9 +1,9 @@
 {
-    "name": "Tests",
+    "name": "DecrementFilterTest",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "CubeFilter"
+        "decrementFilter"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

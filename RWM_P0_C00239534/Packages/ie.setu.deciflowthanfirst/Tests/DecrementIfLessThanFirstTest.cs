@@ -19,22 +19,5 @@ namespace Tests
             CollectionAssert.AreEqual(expected, output);
         }
 
-
-
-        [Test]
-        public void Module3Simple()
-        {
-            int[] input = { 10, 9, 12, 5, 5, 8 };
-            int[] output = CubeFilter.Module3(input);
-            int[] expected = { 1, 0, 0, 2, 2, 2 };
-
-            CollectionAssert.AreEqual(expected, output);
-        }
-
-
-
-
-
-
     }
 }
