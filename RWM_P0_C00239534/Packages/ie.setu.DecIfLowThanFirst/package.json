@@ -1,6 +1,6 @@
 {
-  "name": "ie.setu.DecIfLowThanFirst",
-  "version": "1.0.0",
+  "name": "ie.setu.deciflowthanfirst",
+  "version": "2.0.0",
   "displayName": "DecreaseIfLowerThanFirst",
   "description": "Filter than decrease if lower than 1.",
   "unity": "2020.3"

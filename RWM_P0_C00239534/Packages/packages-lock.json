@@ -158,8 +158,8 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "ie.itcarlow.cubefilter": {
-      "version": "file:ie.setu.cubefilter",
+    "ie.setu.deciflowthanfirst": {
+      "version": "file:ie.setu.deciflowthanfirst",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
